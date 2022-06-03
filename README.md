@@ -1,5 +1,7 @@
 # Terraform module to create Alibaba Cloud CEN Cross-Region VPC Attachment
 
+_Thanks for Przemek https://sky-with-many-clouds.com/ for sharing the TF code https://github.com/conip/CEN-backbone_
+
 ## Usage 
 
 ```hcl
