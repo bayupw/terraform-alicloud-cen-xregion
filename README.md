@@ -4,7 +4,7 @@
 
 ```hcl
 module "cen-xregion" {
-  source = "../terraform-alicloud-cen-xregion"
+  source = "bayupw/cen-xregion/alicloud"
   
   name = "cen"
   description = "CEN instance"
