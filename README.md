@@ -2,6 +2,7 @@
 
 ## Usage 
 
+```hcl
 module "cen-xregion" {
   source = "../terraform-alicloud-cen-xregion"
   
@@ -21,6 +22,7 @@ module "cen-xregion" {
     }
   }
 }
+```
 
 ## Contributing
 
